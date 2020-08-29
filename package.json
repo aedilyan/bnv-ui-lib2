@@ -1,6 +1,6 @@
 {
   "name": "bnv-ui-lib2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ui lib",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aedilyan/bnv-ui-lib2.git"
+  },
+  "peerDependencies": {
+    "react": "16.12.0",
+    "react-dom": "^16.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
