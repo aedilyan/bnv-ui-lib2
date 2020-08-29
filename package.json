@@ -1,6 +1,6 @@
 {
   "name": "bnv-ui-lib2",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "ui lib",
   "main": "src/index.js",
   "scripts": {
