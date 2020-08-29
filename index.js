@@ -1,1 +1,1 @@
-alert(1)
+export { default as App } from './src/index'

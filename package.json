@@ -1,8 +1,8 @@
 {
   "name": "bnv-ui-lib2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ui lib",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --open --hot --mode development",
