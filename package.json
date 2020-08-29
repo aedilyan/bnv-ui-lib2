@@ -2,7 +2,7 @@
   "name": "bnv-ui-lib2",
   "version": "1.0.5",
   "description": "ui lib",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --open --hot --mode development",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/aedilyan/bnv-ui-lib2.git"
   },
   "peerDependencies": {
-    "react": "16.12.0",
+    "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
@@ -30,9 +30,7 @@
     "url-loader": "^3.0.0",
     "webpack": "^4.41.3",
     "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.9.0"
-  },
-  "dependencies": {
+    "webpack-dev-server": "^3.9.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
