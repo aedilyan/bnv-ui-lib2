@@ -1,0 +1,22 @@
+{
+  "name": "bnv-ui-lib2",
+  "version": "1.0.0",
+  "description": "ui lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aedilyan/bnv-ui-lib2.git"
+  },
+  "keywords": [
+    "keywordik"
+  ],
+  "author": "artur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aedilyan/bnv-ui-lib2/issues"
+  },
+  "homepage": "https://github.com/aedilyan/bnv-ui-lib2#readme"
+}
